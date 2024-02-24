@@ -167,7 +167,6 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1fd0bae05353b295d3b754c1c784fe73",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-<<<<<<< HEAD
 "index.html": "3ae0e877e21164d3c1c6bce39381eeae",
 "/": "3ae0e877e21164d3c1c6bce39381eeae",
 "main.dart.js": "dab813d00b3526eb49dd7645b85f462b",
@@ -346,6 +345,11 @@ function onlineFirst(event) {
 "index.html": "0d2379611cd2ad0366ed28da5c3c38f1",
 "/": "0d2379611cd2ad0366ed28da5c3c38f1",
 "main.dart.js": "9bba89dfa37a62a38a12f7cbbd1bea19",
+=======
+"index.html": "5ffb404d512e66a0a1eb41b29c03bf6d",
+"/": "5ffb404d512e66a0a1eb41b29c03bf6d",
+"main.dart.js": "67272866ddbe3d34949de6d3975f41fd",
+>>>>>>> 4682b2b (New build)
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
