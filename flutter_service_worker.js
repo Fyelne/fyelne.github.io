@@ -22,11 +22,19 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1fd0bae05353b295d3b754c1c784fe73",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/sendemail-validate.sample": "4d67df3a8d5c98cb8565c07e42be0b04",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+<<<<<<< HEAD
 ".git/index": "e71113e0991d721a13e70b22f8d79abf",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/HEAD": "119e20baf3c39cb66b4fc2d137ccc8bc",
 ".git/logs/refs/heads/main": "119e20baf3c39cb66b4fc2d137ccc8bc",
 ".git/logs/refs/remotes/portfolio-Webpage/main": "65c963c40168a3fd6b2008629eb64593",
+=======
+".git/index": "0cb754eb140a6ae9dbf3bb61feb72074",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/logs/HEAD": "61fe480213dcee46964d20875e4cacec",
+".git/logs/refs/heads/main": "61fe480213dcee46964d20875e4cacec",
+".git/logs/refs/remotes/portfolio-Webpage/main": "15974a042790de67363369e224c09c06",
+>>>>>>> f04b560 (Automated deployment)
 ".git/objects/03/8c9d246be3e8d76cc7164d919b2dcee7af7ce9": "6257b6bce57360535915d2fb498fbd5b",
 ".git/objects/03/e300719f588b9a83cbae43fa135768ef7d7250": "914a8830d23e54995778c3b25298360a",
 ".git/objects/07/74c17c0fa7a7e87e24a6935830998d92b52c75": "cd62ee54b7ceea7b2a7804e69b1d9134",
@@ -74,9 +82,13 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1fd0bae05353b295d3b754c1c784fe73",
 ".git/objects/91/fb44f1d837646eb329ff58b3ec54b3fd9538f0": "e016422e03441148bdfa8237de628971",
 ".git/objects/92/70ce0aaf9a0056d412528d751db2277278dd46": "8e09160ef1f93ca4349c795036091e2d",
 ".git/objects/94/bfb1463ad8331bfd687bc751b8920b133da744": "fd2d8c0d844b234856b36b93f652048f",
+<<<<<<< HEAD
 ".git/objects/9e/b80a1e773e86ce5f20061149f5ba92cf4abfa7": "80ad4912d9457a5c6f8bb33b6d9842fe",
 ".git/objects/a1/ec8f2ee74d04576e276bdd7b77c2f258f1184b": "05bc89ac3bb8207b32db463d399b92c7",
 ".git/objects/a3/89d63924307ff7313517cd729282baff6277e3": "e1886643e4c03636f708d9742006b32d",
+=======
+".git/objects/a1/ec8f2ee74d04576e276bdd7b77c2f258f1184b": "05bc89ac3bb8207b32db463d399b92c7",
+>>>>>>> f04b560 (Automated deployment)
 ".git/objects/a6/e1963958e7fd98f63e39e6ad7b8bb41f399f74": "5590bd7abfd2b9f3add9937a763389ec",
 ".git/objects/ae/2ebaafc8f2e0311ded7b06e8ec2e14959f3a84": "34d6ea52f7fb8d056757db216d6f3480",
 ".git/objects/af/742adee0a85dd21ea96cbd84182e30e085d6cf": "aa25b932ec40efacb1efe27e7cf25d82",
@@ -112,9 +124,15 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1fd0bae05353b295d3b754c1c784fe73",
 ".git/objects/fa/a2c0ec2d4b75b76956300b63fd7512057b4dbd": "a02d4ce463b35cfd958aa44fd2e3a390",
 ".git/objects/fc/1802e23d62f35e889cbe232fd01f7513461a96": "8d1af72664488b7ea07ef60277fd5293",
 ".git/objects/fe/3914bcf3baf9d87a873a444cac8aaf9dcd54c1": "372add7dd6cdabc32b9333e8d66bff72",
+<<<<<<< HEAD
 ".git/ORIG_HEAD": "e997e0f2fd2d860f6a5ce707d552f567",
 ".git/refs/heads/main": "e997e0f2fd2d860f6a5ce707d552f567",
 ".git/refs/remotes/portfolio-Webpage/main": "e997e0f2fd2d860f6a5ce707d552f567",
+=======
+".git/ORIG_HEAD": "52801c984630ada6c0c2d3620a79965a",
+".git/refs/heads/main": "52801c984630ada6c0c2d3620a79965a",
+".git/refs/remotes/portfolio-Webpage/main": "52801c984630ada6c0c2d3620a79965a",
+>>>>>>> f04b560 (Automated deployment)
 "assets/AssetManifest.bin": "2a7c1807def3cc75af9e7b6d532fc367",
 "assets/AssetManifest.bin.json": "1e9da2aa41762ba7fc1dd1da872e0370",
 "assets/AssetManifest.json": "4c83e884cad6f6dad0b87e5d28e13bdd",
@@ -167,9 +185,15 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "1fd0bae05353b295d3b754c1c784fe73",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "3ae0e877e21164d3c1c6bce39381eeae",
 "/": "3ae0e877e21164d3c1c6bce39381eeae",
 "main.dart.js": "dab813d00b3526eb49dd7645b85f462b",
+=======
+"index.html": "e0bb46607f83bbfe2840806226c31d20",
+"/": "e0bb46607f83bbfe2840806226c31d20",
+"main.dart.js": "67272866ddbe3d34949de6d3975f41fd",
+>>>>>>> f04b560 (Automated deployment)
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
