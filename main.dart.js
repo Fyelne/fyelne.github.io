@@ -81025,8 +81025,8 @@ if(q!=null)q.FI(0)},
 $S:0}
 A.xB.prototype={}
 A.Fp.prototype={
-K(a){var s=null,r=t.p
-return A.dl(s,A.jq(A.b([B.Re,B.ev,new A.da(B.za,new A.ws(new A.Xg(this),s),s),B.eu,new A.da(B.l9,B.BH,s),B.LE,new A.da(B.l9,new A.cl(17976931348623157e292,50,A.ajE(B.ki,new A.Xh(a),A.ajF(s,s,B.ic,s,s,s,s,s,s,B.j,s,s,s,s,s,s,s,B.kh,s)),s),s),B.k5,new A.da(B.zg,B.C2,s),B.eu,A.rY(B.ym,A.b([A.qf(!1,!0,A.jJ("assets/images/github.png",s,s,28),s,!0,s,s,s,s,s,s,s,s,s,new A.Xi(),s,s,s,s,s,s,s),A.qf(!1,!0,A.jJ("assets/images/linkedin.png",s,s,28),s,!0,s,s,s,s,s,s,s,s,s,new A.Xj(),s,s,s,s,s,s,s)],r),12,12)],r),B.ax,B.aD,B.aE),B.t,B.eS,s,s,s,s,s,B.iv,s)}}
+K(a){var s=17976931348623157e292,r=null,q=t.p
+return A.dl(r,A.jq(A.b([B.Re,B.ev,new A.da(B.za,new A.ws(new A.Xg(this),r),r),B.eu,new A.da(B.l9,B.BH,r),B.LE,new A.da(B.l9,new A.cl(s,50,A.ajE(B.ki,new A.Xh(a),A.ajF(r,r,B.ic,r,r,r,r,r,r,B.j,r,r,r,r,r,r,r,B.kh,r)),r),r),B.k5,new A.da(B.zg,B.C2,r),B.eu,A.rY(B.ym,A.b([A.qf(!1,!0,A.jJ("assets/images/github.png",r,r,28),r,!0,r,r,r,r,r,r,r,r,r,new A.Xi(),r,r,r,r,r,r,r),A.qf(!1,!0,A.jJ("assets/images/linkedin.png",r,r,28),r,!0,r,r,r,r,r,r,r,r,r,new A.Xj(),r,r,r,r,r,r,r)],q),12,12)],q),B.ax,B.aD,B.aE),B.t,B.eS,r,r,r,r,r,B.iv,s)}}
 A.Xg.prototype={
 $2(a,b){if(b.b>=600)return B.K5
 else return B.Bk},
